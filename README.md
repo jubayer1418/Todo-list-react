@@ -3,7 +3,7 @@
 
 1. Clone this repository -
    ```sh
-   git clone https://github.com/Learn-with-Sumit/rnext.git
+   git clone https://github.com/jubayer1418/Todo-list-react.git
    ```
 
 2. Just run this command to install node dependencies
